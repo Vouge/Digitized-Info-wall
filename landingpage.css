@@ -1,0 +1,82 @@
+#content
+{
+	text-align: center;
+	padding-top:2%;
+	font-family: Bungee Inline;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.10);
+}
+body
+{
+		background: url(try.jpg);
+	background-size: cover;
+	background-position: center;
+	color: white;
+	padding-top: 20px;
+}
+
+h1 {
+	font-weight: 700;
+	width: 100%
+	/*width: 1100px;
+	font-size: 5em; 
+*/
+}
+
+hr
+{
+	width: 100%;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.8);
+}
+html{
+	height: 100%;
+}
+
+.Slides{
+	background-size: cover;
+	background-position: center;
+	display: none;
+	width:  1110px;
+	height: 600px;
+	
+	padding-left: 0%
+}
+.landButton{
+	background-color: #2c3e50;
+	color:#ecf0f1;
+}
+
+.landButton:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    background: #ecf0f1;
+    color: #2c3e50;
+
+
+   
+}
+#contain
+{
+	
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.10);
+}
+
+
+
+
+p,a{
+	color:white;
+	text-align: center;
+}
+div{
+	text-align: center;
+}
+.jumbotron{
+		color:#2c3e50;
+		background: #ecf0f1;
+		
+	}
+
